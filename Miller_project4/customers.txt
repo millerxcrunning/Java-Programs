@@ -1,0 +1,43 @@
+C
+Bill Walton
+C
+Mario Rodriguez
+P
+Penny Hilton
+philton@mymail.com
+C
+Karen Puckett
+P
+Charles Little
+littlec@mymail.com
+P
+Gretchen Hill
+ghill@univ.edu
+C
+Patrick Song
+C
+Malcolm Wagner
+P
+Beth Woodard
+bwoodard007@mymail.com
+C
+Julia Desai
+P
+Jerome Wallace
+jwallace@univ.edu
+C
+Jean Griffin
+C
+Kristine Dougherty
+P
+Franklin Vick
+vick@mymail.com
+C
+Marian Sanger
+C
+Jerome Johnston
+P
+Beth Walton
+walton17@mymail.com
+C
+Erica Hall

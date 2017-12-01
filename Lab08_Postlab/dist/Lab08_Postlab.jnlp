@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Lab08_Postlab.jnlp">
+  <information>
+    <title>Lab08_Postlab</title>
+    <vendor>Doom</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Lab08_Postlab.jar" size="4151" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Lab08_Postlab" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="cs1180.lab08.conwaysgameoflife.CS1180Lab08ConwaysGameOfLife"  name="Lab08_Postlab" />
+  <update check="always"/>
+</jnlp>
